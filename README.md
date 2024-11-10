@@ -1,11 +1,21 @@
-                                                        **Hi 👋 , I’m @Isabelle36**
-                                                    Web Development | Coding Enthusiast
+
+<h1 align="center">Hi 👋, My name is Alfi</h1> 
+<h3 align="center">Web Development | Coding Enthusiast</h3>
+
+[![Holopin Badges](https://holopin.me/isabelle36)](https://holopin.io/@isabelle36)
+
+- 📫 How to reach me **alficodess@gmail.com**
+- 🌍 I'm from India
+- 🔍 I'm currently learning React
+
+![Profile views](https://komarev.com/ghpvc/?username=isabelle36&label=Profile%20views&color=0e75b6&style=flat)
+
+<h2>Skills</h2>
 
 
-[![An image of @isabelle36's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isabelle36)](https://holopin.io/@isabelle36)
 
-I am from India 
-<!---
-Isabelle36/Isabelle36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelle36&show_icons=true&locale=en&layout=compact" alt="isabelle36" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isabelle36&show_icons=true&locale=en" alt="isabelle36" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isabelle36&" alt="isabelle36" /></p>
